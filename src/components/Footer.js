@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-3 mb-6">
               <div>
-                <h2 className="text-xl font-medium">KELVINAIRE.NG</h2>
+                <h2 className="text-xl font-medium">HASHOMADA</h2>
               </div>
             </div>
             <p className="text-gray-300 text-sm">
@@ -64,7 +64,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-300 text-sm mb-4 md:mb-0">
-              © {currentYear} KELVINAIRE.NG. All rights reserved.
+              © {currentYear} HASHOMADA. All rights reserved.
             </div>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-white">
